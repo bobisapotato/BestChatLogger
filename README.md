@@ -1,10 +1,8 @@
-# OverRustle Logs
 
-A chat log suite for [Destiny.gg](https://www.destiny.gg/bigscreen) and [Twitch.tv](http://twitch.tv).
 
-## Setting Up OverRustle Logs
+## Setting Up BestChatLogger
 
-These instructions assume you are installing on Ubuntu 14.04 or higher.
+These instructions assume you are installing on Ubuntu 14.04 or higher. (This is a modded fork Overrussle logs)
 
 ### Step 1
 
